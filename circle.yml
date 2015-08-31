@@ -1,0 +1,3 @@
+test:
+  override:
+    - php ./Test.php --unit-tests
